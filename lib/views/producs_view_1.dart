@@ -10,7 +10,7 @@ class ProductsListView extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return FutureBuilder(
-      future: SearchData.getData('http://noon_api.surge.sh/appliances-deals'),
+      future: SearchData.getData('https://noon_api.surge.sh/appliances-deals'),
       // initialData: InitialData,
       builder: (BuildContext context, AsyncSnapshot snapshot) {
         if (snapshot.connectionState == ConnectionState.waiting)

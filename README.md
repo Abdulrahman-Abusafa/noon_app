@@ -16,17 +16,17 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-http://noon_api.surge.sh/fashion/women-31229/clothing-16021
-http://noon_api.surge.sh/fashion/women-31229/
-http://noon_api.surge.sh/fashion
+https://noon_api.surge.sh/fashion/women-31229/clothing-16021
+https://noon_api.surge.sh/fashion/women-31229/
+https://noon_api.surge.sh/fashion
 
-http://noon_api.surge.sh/appliances-deals?limit=1000
-http://noon_api.surge.sh/home-deals?limit=18
-http://noon_api.surge.sh/appliances-deals?limit=18
-http://noon_api.surge.sh/baby-healthcare-sa?f%5Bis_fbn%5D=1&limit=18
-http://noon_api.surge.sh/at-top-picks-frag-sa?limit=18
+https://noon_api.surge.sh/appliances-deals?limit=1000
+https://noon_api.surge.sh/home-deals?limit=18
+https://noon_api.surge.sh/appliances-deals?limit=18
+https://noon_api.surge.sh/baby-healthcare-sa?f%5Bis_fbn%5D=1&limit=18
+https://noon_api.surge.sh/at-top-picks-frag-sa?limit=18
 
-http://noon_api.surge.sh/mobiles-promotion?limit=1
+https://noon_api.surge.sh/mobiles-promotion?limit=1
 
 
 
